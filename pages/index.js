@@ -9,7 +9,10 @@ export default function Home() {
         <meta name='description' content='Want cheap and quality clothing? FiveGiftStore finding you quality and low budget clothing just a click away'/>
         <meta name='keywords' content='CHEAP, BRANDED, TOPS, SHORTS, PANTS, SHOES, SHIRT'/> 
         <meta name='author' content='freelancer seller'/>
-      </Head> 
+      </Head>
+      <div>
+        hello index  
+      </div> 
     </>
   )
 }
